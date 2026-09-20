@@ -1,0 +1,22 @@
+# Copy this file to local.properties (same folder) and fill in real values.
+# local.properties is git-ignored — never commit real API keys.
+
+sdk.dir=/path/to/your/Android/sdk
+
+# https://openweathermap.org/api — free tier is enough for development
+OPENWEATHER_API_KEY=
+
+# https://console.cloud.google.com/google/maps-apis — enable "Maps SDK for Android"
+# and "Directions API"; restrict the key to your app's package name + SHA-1
+MAPS_API_KEY=
+
+# https://developer.edamam.com/food-database-api — Food Database API
+EDAMAM_APP_ID=
+EDAMAM_APP_KEY=
+
+# https://rapidapi.com/justin-WFnsXH_t6/api/exercisedb — or your chosen exercise data source
+EXERCISEDB_API_KEY=
+
+# Firebase Console > Authentication > Sign-in method > Google > Web SDK configuration
+# (only appears after you enable the Google sign-in provider)
+GOOGLE_WEB_CLIENT_ID=

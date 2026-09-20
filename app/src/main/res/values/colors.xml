@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pulsefit_primary">#1565C0</color>
+    <color name="pulsefit_primary_dark">#0D47A1</color>
+    <color name="pulsefit_accent">#00C853</color>
+    <color name="background_light">#F5F7FA</color>
+    <color name="text_primary">#1A1A1A</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="white">#FFFFFF</color>
+    <color name="error_red">#D32F2F</color>
+</resources>
