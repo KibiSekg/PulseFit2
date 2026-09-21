@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "819215336880",
+    "project_id": "pulsefit-ad314",
+    "storage_bucket": "pulsefit-ad314.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819215336880:android:055baa7e78bda592a7c275",
+        "android_client_info": {
+          "package_name": "com.pulsefit.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819215336880-od2j9es1g0sh5vtkgikp2jedf0v4np6s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pulsefit.app",
+            "certificate_hash": "4602643980e1ac93487e01622972fa075974f4be"
+          }
+        },
+        {
+          "client_id": "819215336880-e15mbhecomua3jdjd6cp8ensegfu5gb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCweqZ2wDkKcIWt_SH7lLIofqmxeV6C0ME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819215336880-e15mbhecomua3jdjd6cp8ensegfu5gb0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
